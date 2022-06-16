@@ -1,14 +1,14 @@
 ﻿  Brick_Breaker.cpp
-C:\Users\Kandeel\source\repos\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(60,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Kandeel\source\repos\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(66,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Kandeel\source\repos\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(210,23): warning C4553: '==': result of expression not used; did you intend '='?
-C:\Users\Kandeel\source\repos\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(257,21): warning C4553: '==': result of expression not used; did you intend '='?
-C:\Users\Kandeel\source\repos\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(334,41): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\Kandeel\source\repos\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(339,44): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\Kandeel\source\repos\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(339,68): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\Kandeel\source\repos\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(344,61): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\Kandeel\source\repos\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(356,40): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\Kandeel\source\repos\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(361,42): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\Kandeel\source\repos\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(362,43): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\Kandeel\source\repos\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(367,39): warning C4305: '=': truncation from 'double' to 'float'
-  Brick_Breaker.vcxproj -> C:\Users\Kandeel\source\repos\Brick_Breaker\Debug\Brick_Breaker.exe
+C:\Users\Kandeel\Desktop\fcis\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(60,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kandeel\Desktop\fcis\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(66,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kandeel\Desktop\fcis\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(210,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Kandeel\Desktop\fcis\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(257,21): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Kandeel\Desktop\fcis\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(334,41): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kandeel\Desktop\fcis\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(339,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kandeel\Desktop\fcis\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(339,68): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kandeel\Desktop\fcis\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(344,61): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kandeel\Desktop\fcis\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(356,40): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kandeel\Desktop\fcis\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(361,42): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kandeel\Desktop\fcis\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(362,43): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kandeel\Desktop\fcis\Brick_Breaker\Brick_Breaker\Brick_Breaker.cpp(367,39): warning C4305: '=': truncation from 'double' to 'float'
+  Brick_Breaker.vcxproj -> C:\Users\Kandeel\Desktop\fcis\Brick_Breaker\Debug\Brick_Breaker.exe
